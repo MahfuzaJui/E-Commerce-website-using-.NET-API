@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "921d9b29-c7ac-4eec-b49e-55ad06267309": {
+      "ProjectGuid": "921d9b29-c7ac-4eec-b49e-55ad06267309",
+      "DisplayName": "DAL",
+      "ColorIndex": 0
+    },
+    "59b62677-53fb-4167-9ba9-c64b840ebdfa": {
+      "ProjectGuid": "59b62677-53fb-4167-9ba9-c64b840ebdfa",
+      "DisplayName": "Presentation_WebAPI",
+      "ColorIndex": 1
+    },
+    "19cff065-e1f9-455f-83fd-5bce38e9bb45": {
+      "ProjectGuid": "19cff065-e1f9-455f-83fd-5bce38e9bb45",
+      "DisplayName": "BLL",
+      "ColorIndex": 2
+    },
+    "81c5e4be-e3b0-4685-9cbe-6f0f86bf54ec": {
+      "ProjectGuid": "81c5e4be-e3b0-4685-9cbe-6f0f86bf54ec",
+      "DisplayName": "BEL",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

@@ -1,0 +1,54 @@
+C:\Users\Teacher\Desktop\.Net B\Presentation_Console\BLL\bin\Debug\BLL.dll
+C:\Users\Teacher\Desktop\.Net B\Presentation_Console\BLL\bin\Debug\BLL.pdb
+C:\Users\Teacher\Desktop\.Net B\Presentation_Console\BLL\bin\Debug\DAL.dll
+C:\Users\Teacher\Desktop\.Net B\Presentation_Console\BLL\bin\Debug\EntityFramework.dll
+C:\Users\Teacher\Desktop\.Net B\Presentation_Console\BLL\bin\Debug\DAL.pdb
+C:\Users\Teacher\Desktop\.Net B\Presentation_Console\BLL\bin\Debug\DAL.dll.config
+C:\Users\Teacher\Desktop\.Net B\Presentation_Console\BLL\bin\Debug\EntityFramework.xml
+C:\Users\Teacher\Desktop\.Net B\Presentation_Console\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\Teacher\Desktop\.Net B\Presentation_Console\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Teacher\Desktop\.Net B\Presentation_Console\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\Teacher\Desktop\.Net B\Presentation_Console\BLL\obj\Debug\BLL.dll
+C:\Users\Teacher\Desktop\.Net B\Presentation_Console\BLL\obj\Debug\BLL.pdb
+G:\AIUB\COURSES\AspdotNet\Final Project\FinalAPIProject\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+G:\AIUB\COURSES\AspdotNet\Final Project\FinalAPIProject\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+G:\AIUB\COURSES\AspdotNet\Final Project\FinalAPIProject\BLL\obj\Debug\BLL.dll
+G:\AIUB\COURSES\AspdotNet\Final Project\FinalAPIProject\BLL\obj\Debug\BLL.pdb
+G:\AIUB\COURSES\AspdotNet\Final Project\FinalAPIProject\BLL\bin\Debug\BLL.dll
+G:\AIUB\COURSES\AspdotNet\Final Project\FinalAPIProject\BLL\bin\Debug\BLL.pdb
+G:\AIUB\COURSES\AspdotNet\Final Project\FinalAPIProject\BLL\bin\Debug\DAL.dll
+G:\AIUB\COURSES\AspdotNet\Final Project\FinalAPIProject\BLL\bin\Debug\EntityFramework.dll
+G:\AIUB\COURSES\AspdotNet\Final Project\FinalAPIProject\BLL\bin\Debug\DAL.pdb
+G:\AIUB\COURSES\AspdotNet\Final Project\FinalAPIProject\BLL\bin\Debug\DAL.dll.config
+G:\AIUB\COURSES\AspdotNet\Final Project\FinalAPIProject\BLL\bin\Debug\EntityFramework.xml
+G:\AIUB\COURSES\AspdotNet\Final Project\FinalAPIProject\BLL\obj\Debug\BLL.csproj.CopyComplete
+G:\AIUB\COURSES\AspdotNet\Final Project\FinalAPIProject\BLL\bin\Debug\BEL.dll
+G:\AIUB\COURSES\AspdotNet\Final Project\FinalAPIProject\BLL\bin\Debug\BEL.pdb
+C:\Projects\WebAPI.net-FinalProject-main\WebAPI.net-FinalProject-main\BLL\bin\Debug\BLL.dll
+C:\Projects\WebAPI.net-FinalProject-main\WebAPI.net-FinalProject-main\BLL\bin\Debug\BLL.pdb
+C:\Projects\WebAPI.net-FinalProject-main\WebAPI.net-FinalProject-main\BLL\bin\Debug\BEL.dll
+C:\Projects\WebAPI.net-FinalProject-main\WebAPI.net-FinalProject-main\BLL\bin\Debug\DAL.dll
+C:\Projects\WebAPI.net-FinalProject-main\WebAPI.net-FinalProject-main\BLL\bin\Debug\EntityFramework.dll
+C:\Projects\WebAPI.net-FinalProject-main\WebAPI.net-FinalProject-main\BLL\bin\Debug\BEL.pdb
+C:\Projects\WebAPI.net-FinalProject-main\WebAPI.net-FinalProject-main\BLL\bin\Debug\DAL.pdb
+C:\Projects\WebAPI.net-FinalProject-main\WebAPI.net-FinalProject-main\BLL\bin\Debug\DAL.dll.config
+C:\Projects\WebAPI.net-FinalProject-main\WebAPI.net-FinalProject-main\BLL\bin\Debug\EntityFramework.xml
+C:\Projects\WebAPI.net-FinalProject-main\WebAPI.net-FinalProject-main\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Projects\WebAPI.net-FinalProject-main\WebAPI.net-FinalProject-main\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Projects\WebAPI.net-FinalProject-main\WebAPI.net-FinalProject-main\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Projects\WebAPI.net-FinalProject-main\WebAPI.net-FinalProject-main\BLL\obj\Debug\BLL.dll
+C:\Projects\WebAPI.net-FinalProject-main\WebAPI.net-FinalProject-main\BLL\obj\Debug\BLL.pdb
+C:\Users\ASUS\Downloads\WebAPI.net-FinalProject-main1\WebAPI.net-FinalProject-main\WebAPI.net-FinalProject-main\BLL\bin\Debug\BLL.dll
+C:\Users\ASUS\Downloads\WebAPI.net-FinalProject-main1\WebAPI.net-FinalProject-main\WebAPI.net-FinalProject-main\BLL\bin\Debug\BLL.pdb
+C:\Users\ASUS\Downloads\WebAPI.net-FinalProject-main1\WebAPI.net-FinalProject-main\WebAPI.net-FinalProject-main\BLL\bin\Debug\BEL.dll
+C:\Users\ASUS\Downloads\WebAPI.net-FinalProject-main1\WebAPI.net-FinalProject-main\WebAPI.net-FinalProject-main\BLL\bin\Debug\DAL.dll
+C:\Users\ASUS\Downloads\WebAPI.net-FinalProject-main1\WebAPI.net-FinalProject-main\WebAPI.net-FinalProject-main\BLL\bin\Debug\EntityFramework.dll
+C:\Users\ASUS\Downloads\WebAPI.net-FinalProject-main1\WebAPI.net-FinalProject-main\WebAPI.net-FinalProject-main\BLL\bin\Debug\BEL.pdb
+C:\Users\ASUS\Downloads\WebAPI.net-FinalProject-main1\WebAPI.net-FinalProject-main\WebAPI.net-FinalProject-main\BLL\bin\Debug\DAL.pdb
+C:\Users\ASUS\Downloads\WebAPI.net-FinalProject-main1\WebAPI.net-FinalProject-main\WebAPI.net-FinalProject-main\BLL\bin\Debug\DAL.dll.config
+C:\Users\ASUS\Downloads\WebAPI.net-FinalProject-main1\WebAPI.net-FinalProject-main\WebAPI.net-FinalProject-main\BLL\bin\Debug\EntityFramework.xml
+C:\Users\ASUS\Downloads\WebAPI.net-FinalProject-main1\WebAPI.net-FinalProject-main\WebAPI.net-FinalProject-main\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\ASUS\Downloads\WebAPI.net-FinalProject-main1\WebAPI.net-FinalProject-main\WebAPI.net-FinalProject-main\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\WebAPI.net-FinalProject-main1\WebAPI.net-FinalProject-main\WebAPI.net-FinalProject-main\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\ASUS\Downloads\WebAPI.net-FinalProject-main1\WebAPI.net-FinalProject-main\WebAPI.net-FinalProject-main\BLL\obj\Debug\BLL.dll
+C:\Users\ASUS\Downloads\WebAPI.net-FinalProject-main1\WebAPI.net-FinalProject-main\WebAPI.net-FinalProject-main\BLL\obj\Debug\BLL.pdb

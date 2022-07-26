@@ -1,0 +1,18 @@
+G:\AIUB\COURSES\AspdotNet\Final Project\FinalAPIProject\BEL\bin\Debug\BEL.dll
+G:\AIUB\COURSES\AspdotNet\Final Project\FinalAPIProject\BEL\bin\Debug\BEL.pdb
+G:\AIUB\COURSES\AspdotNet\Final Project\FinalAPIProject\BEL\obj\Debug\BEL.csproj.AssemblyReference.cache
+G:\AIUB\COURSES\AspdotNet\Final Project\FinalAPIProject\BEL\obj\Debug\BEL.csproj.CoreCompileInputs.cache
+G:\AIUB\COURSES\AspdotNet\Final Project\FinalAPIProject\BEL\obj\Debug\BEL.dll
+G:\AIUB\COURSES\AspdotNet\Final Project\FinalAPIProject\BEL\obj\Debug\BEL.pdb
+C:\Projects\WebAPI.net-FinalProject-main\WebAPI.net-FinalProject-main\BEL\bin\Debug\BEL.dll
+C:\Projects\WebAPI.net-FinalProject-main\WebAPI.net-FinalProject-main\BEL\bin\Debug\BEL.pdb
+C:\Projects\WebAPI.net-FinalProject-main\WebAPI.net-FinalProject-main\BEL\obj\Debug\BEL.csproj.AssemblyReference.cache
+C:\Projects\WebAPI.net-FinalProject-main\WebAPI.net-FinalProject-main\BEL\obj\Debug\BEL.csproj.CoreCompileInputs.cache
+C:\Projects\WebAPI.net-FinalProject-main\WebAPI.net-FinalProject-main\BEL\obj\Debug\BEL.dll
+C:\Projects\WebAPI.net-FinalProject-main\WebAPI.net-FinalProject-main\BEL\obj\Debug\BEL.pdb
+C:\Users\ASUS\Downloads\WebAPI.net-FinalProject-main1\WebAPI.net-FinalProject-main\WebAPI.net-FinalProject-main\BEL\bin\Debug\BEL.dll
+C:\Users\ASUS\Downloads\WebAPI.net-FinalProject-main1\WebAPI.net-FinalProject-main\WebAPI.net-FinalProject-main\BEL\bin\Debug\BEL.pdb
+C:\Users\ASUS\Downloads\WebAPI.net-FinalProject-main1\WebAPI.net-FinalProject-main\WebAPI.net-FinalProject-main\BEL\obj\Debug\BEL.csproj.AssemblyReference.cache
+C:\Users\ASUS\Downloads\WebAPI.net-FinalProject-main1\WebAPI.net-FinalProject-main\WebAPI.net-FinalProject-main\BEL\obj\Debug\BEL.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\WebAPI.net-FinalProject-main1\WebAPI.net-FinalProject-main\WebAPI.net-FinalProject-main\BEL\obj\Debug\BEL.dll
+C:\Users\ASUS\Downloads\WebAPI.net-FinalProject-main1\WebAPI.net-FinalProject-main\WebAPI.net-FinalProject-main\BEL\obj\Debug\BEL.pdb

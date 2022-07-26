@@ -1,0 +1,40 @@
+C:\Users\Teacher\Desktop\.Net B\Presentation_Console\DAL\bin\Debug\DAL.dll.config
+C:\Users\Teacher\Desktop\.Net B\Presentation_Console\DAL\bin\Debug\DAL.dll
+C:\Users\Teacher\Desktop\.Net B\Presentation_Console\DAL\bin\Debug\DAL.pdb
+C:\Users\Teacher\Desktop\.Net B\Presentation_Console\DAL\bin\Debug\EntityFramework.dll
+C:\Users\Teacher\Desktop\.Net B\Presentation_Console\DAL\bin\Debug\EntityFramework.xml
+C:\Users\Teacher\Desktop\.Net B\Presentation_Console\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\Teacher\Desktop\.Net B\Presentation_Console\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Teacher\Desktop\.Net B\Presentation_Console\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Teacher\Desktop\.Net B\Presentation_Console\DAL\obj\Debug\DAL.dll
+C:\Users\Teacher\Desktop\.Net B\Presentation_Console\DAL\obj\Debug\DAL.pdb
+G:\AIUB\COURSES\AspdotNet\Final Project\FinalAPIProject\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+G:\AIUB\COURSES\AspdotNet\Final Project\FinalAPIProject\DAL\obj\Debug\DAL.dll
+G:\AIUB\COURSES\AspdotNet\Final Project\FinalAPIProject\DAL\obj\Debug\DAL.pdb
+G:\AIUB\COURSES\AspdotNet\Final Project\FinalAPIProject\DAL\bin\Debug\DAL.dll.config
+G:\AIUB\COURSES\AspdotNet\Final Project\FinalAPIProject\DAL\bin\Debug\DAL.dll
+G:\AIUB\COURSES\AspdotNet\Final Project\FinalAPIProject\DAL\bin\Debug\DAL.pdb
+G:\AIUB\COURSES\AspdotNet\Final Project\FinalAPIProject\DAL\bin\Debug\EntityFramework.dll
+G:\AIUB\COURSES\AspdotNet\Final Project\FinalAPIProject\DAL\bin\Debug\EntityFramework.xml
+G:\AIUB\COURSES\AspdotNet\Final Project\FinalAPIProject\DAL\obj\Debug\DAL.csproj.CopyComplete
+G:\AIUB\COURSES\AspdotNet\Final Project\FinalAPIProject\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Projects\WebAPI.net-FinalProject-main\WebAPI.net-FinalProject-main\DAL\bin\Debug\DAL.dll.config
+C:\Projects\WebAPI.net-FinalProject-main\WebAPI.net-FinalProject-main\DAL\bin\Debug\DAL.dll
+C:\Projects\WebAPI.net-FinalProject-main\WebAPI.net-FinalProject-main\DAL\bin\Debug\DAL.pdb
+C:\Projects\WebAPI.net-FinalProject-main\WebAPI.net-FinalProject-main\DAL\bin\Debug\EntityFramework.dll
+C:\Projects\WebAPI.net-FinalProject-main\WebAPI.net-FinalProject-main\DAL\bin\Debug\EntityFramework.xml
+C:\Projects\WebAPI.net-FinalProject-main\WebAPI.net-FinalProject-main\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Projects\WebAPI.net-FinalProject-main\WebAPI.net-FinalProject-main\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Projects\WebAPI.net-FinalProject-main\WebAPI.net-FinalProject-main\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Projects\WebAPI.net-FinalProject-main\WebAPI.net-FinalProject-main\DAL\obj\Debug\DAL.dll
+C:\Projects\WebAPI.net-FinalProject-main\WebAPI.net-FinalProject-main\DAL\obj\Debug\DAL.pdb
+C:\Users\ASUS\Downloads\WebAPI.net-FinalProject-main1\WebAPI.net-FinalProject-main\WebAPI.net-FinalProject-main\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\ASUS\Downloads\WebAPI.net-FinalProject-main1\WebAPI.net-FinalProject-main\WebAPI.net-FinalProject-main\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\WebAPI.net-FinalProject-main1\WebAPI.net-FinalProject-main\WebAPI.net-FinalProject-main\DAL\obj\Debug\DAL.dll
+C:\Users\ASUS\Downloads\WebAPI.net-FinalProject-main1\WebAPI.net-FinalProject-main\WebAPI.net-FinalProject-main\DAL\obj\Debug\DAL.pdb
+C:\Users\ASUS\Downloads\WebAPI.net-FinalProject-main1\WebAPI.net-FinalProject-main\WebAPI.net-FinalProject-main\DAL\bin\Debug\DAL.dll.config
+C:\Users\ASUS\Downloads\WebAPI.net-FinalProject-main1\WebAPI.net-FinalProject-main\WebAPI.net-FinalProject-main\DAL\bin\Debug\DAL.dll
+C:\Users\ASUS\Downloads\WebAPI.net-FinalProject-main1\WebAPI.net-FinalProject-main\WebAPI.net-FinalProject-main\DAL\bin\Debug\DAL.pdb
+C:\Users\ASUS\Downloads\WebAPI.net-FinalProject-main1\WebAPI.net-FinalProject-main\WebAPI.net-FinalProject-main\DAL\bin\Debug\EntityFramework.dll
+C:\Users\ASUS\Downloads\WebAPI.net-FinalProject-main1\WebAPI.net-FinalProject-main\WebAPI.net-FinalProject-main\DAL\bin\Debug\EntityFramework.xml
+C:\Users\ASUS\Downloads\WebAPI.net-FinalProject-main1\WebAPI.net-FinalProject-main\WebAPI.net-FinalProject-main\DAL\obj\Debug\DAL.csproj.CopyComplete

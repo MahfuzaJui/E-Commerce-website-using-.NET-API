@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="1d742a75401f4bb4bc795a44515fc770" Name="Diagram1">
+        <EntityTypeShape EntityType="landSellingModel.administration" Width="1.5" PointX="3" PointY="1.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="landSellingModel.buyer" Width="1.5" PointX="3" PointY="4.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="landSellingModel.Cart" Width="1.5" PointX="8" PointY="1" IsExpanded="true" />
+        <EntityTypeShape EntityType="landSellingModel.For_Rent" Width="1.5" PointX="5.75" PointY="4.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="landSellingModel.For_Sell" Width="1.5" PointX="7.75" PointY="4.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="landSellingModel.Order_Details" Width="1.5" PointX="7.75" PointY="7.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="landSellingModel.post" Width="1.5" PointX="3" PointY="7.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="landSellingModel.Product" Width="1.5" PointX="5.125" PointY="1" IsExpanded="true" />
+        <EntityTypeShape EntityType="landSellingModel.request" Width="1.5" PointX="5.25" PointY="8.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="landSellingModel.Review" Width="1.5" PointX="9.75" PointY="4.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="landSellingModel.seller" Width="1.5" PointX="3" PointY="12.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="landSellingModel.user" Width="1.5" PointX="0.75" PointY="7.25" IsExpanded="true" />
+        <AssociationConnector Association="landSellingModel.FK_administration_user" ManuallyRouted="false" />
+        <AssociationConnector Association="landSellingModel.FK_buyer_user" ManuallyRouted="false" />
+        <AssociationConnector Association="landSellingModel.FK_Cart_Cart" ManuallyRouted="false" />
+        <AssociationConnector Association="landSellingModel.FK_post_user" ManuallyRouted="false" />
+        <AssociationConnector Association="landSellingModel.FK_request_post" ManuallyRouted="false" />
+        <AssociationConnector Association="landSellingModel.FK_request_user" ManuallyRouted="false" />
+        <AssociationConnector Association="landSellingModel.FK_seller_user" ManuallyRouted="false" />
+        <EntityTypeShape EntityType="landSellingModel.Token" Width="1.5" PointX="3" PointY="17.75" />
+        <AssociationConnector Association="landSellingModel.FK_Tokens_Tokens" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
